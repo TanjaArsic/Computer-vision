@@ -1,2 +1,2 @@
 # ComputerVision
-Laboratorijske vežbe iz računarskog vida + dodatni zad.
+Laboratorijske vežbe iz računarskog vida + dodatni zad. što uradih
